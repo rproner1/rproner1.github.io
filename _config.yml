@@ -176,16 +176,19 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  workingpapers:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -227,6 +230,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _workingpapers
+  - scope:
+    path: ""
+    type: workingpaperss
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
   # _portfolio
   - scope:
       path: ""
