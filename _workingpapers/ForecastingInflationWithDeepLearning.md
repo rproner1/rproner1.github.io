@@ -10,10 +10,9 @@ venue: ''
 paperurl: 'http://academicpages.github.io/files/files\ForecastingInflationWithDeepLearning.pdf'
 citation: ''
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This should show up
 
-[Download paper here](http://rproner1.github.io/files/A Multi-Task Deep Learning Model for Inflation
-Forecasting: Dynamic Phillips Curve Neural Network.pdf)
+[Download paper here](http://rproner1.github.io/files/ForecastingInflationWithDeepLearning.pdf)
 
 <!-- Recommended citation: Proner, R. (2023). "A Multi-Task Deep Learning Model for Inflation
 Forecasting: Dynamic Phillips Curve Neural Network." <i>Journal 1</i>. 1(3). -->
