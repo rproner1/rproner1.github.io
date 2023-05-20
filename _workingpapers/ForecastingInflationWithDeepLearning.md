@@ -1,7 +1,7 @@
 ---
 title: "A Multi-Task Deep Learning Model for Inflation
 Forecasting: Dynamic Phillips Curve Neural Network"
-collection: working papers
+collection: Working Papers
 permalink: /workingpapers/_workingpapers\ForecastingInflationWithDeepLearning.md
 excerpt: 'I propose the Dynamic Phillips Curve
 Neural Network (DPCNN), a multi-task deep learning model which incorporates longterm business cycle dynamics using long short-term memory (LSTM) layers.'
