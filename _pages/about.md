@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an MA Economics student at Western University located in London, ON. My research interests include applications of machine learning in asset pricing and macroeconomic time series forecasting. 
+I am an MA Economics student at Western University located in London, ON. My research interests include applications of machine learning in asset pricing and macroeconomic time series forecasting.
