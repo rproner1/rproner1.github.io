@@ -1,6 +1,5 @@
 ---
-title: "A Multi-Task Deep Learning Model for Inflation
-Forecasting: Dynamic Phillips Curve Neural Network"
+title: "A Multi-Task Deep Learning Model for Inflation Forecasting: Dynamic Phillips Curve Neural Network"
 collection: publications
 permalink: /publications/__publications\ForecastingInflationWithDeepLearning.md
 excerpt: 'I propose the Dynamic Phillips Curve
