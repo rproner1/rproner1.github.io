@@ -1,8 +1,8 @@
 ---
 title: "A Multi-Task Deep Learning Model for Inflation Forecasting: Dynamic Phillips Curve Neural Network"
-collection: talks
+collection: presentations
 type: "Presentation"
-permalink: /talks/cea_57_poster_session
+permalink: /presentations/cea_57_poster_session
 venue: "RBC Convention Centre"
 date: 2023-06-02
 location: "Winnipeg, Manitoba"

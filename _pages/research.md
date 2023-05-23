@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications and Working Papers"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -14,6 +14,3 @@ Price stability is essential to economic development and high inflation can be h
 **Proner, R. and Liu, F. Factor Timing with Deep Learning**
 Factors in the cross-section of stocks are persistent sources of risk premia (Fama, E. F. and French, K. R. 1993), forming the basis for factor investing. Factors such as size and value deliver high returns over the long run, but can underperform in the short run, creating the scope for investors to engage in factor timing. We develop a dynamic multi-task neural network (DMT) for the simultaneous timing of several factors, while imposing several economically motivated constraints with the model architecture. We show that DMT is more accurate on average and provides significant gains in excess returns over the benchmark buy-and-hold strategy and other state-of-the-art machine learning methods.
 
-## Publications
-
-Coming soon!
