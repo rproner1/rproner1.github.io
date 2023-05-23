@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download File Here] (https://rproner1.github.io/files/PronerR_CV.pdf)
+You can download my CV [here](https://rproner1.github.io/files/PronerR_CV.pdf)
