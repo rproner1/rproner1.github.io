@@ -239,9 +239,9 @@ defaults:
   # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
